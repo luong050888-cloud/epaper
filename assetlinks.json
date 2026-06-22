@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.luong050888.epaper",
+      "sha256_cert_fingerprints": [
+        "81:2F:FA:9C:C2:A8:62:EB:8C:38:55:20:C0:ED:7A:99:F4:2D:B0:C6:11:26:A9:DD:9C:30:8F:7E:B5:F3:65:77"
+      ]
+    }
+  }
+]
